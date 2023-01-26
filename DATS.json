@@ -1,0 +1,300 @@
+{
+  "title": "EpUp Study: A Pilot Intervention for People with Epilepsy & Depression",
+  "description": "About one third of people with epilepsy experience comorbid depression. UPLIFT (Using Practice and Learning to Increase Favorable Thoughts) uses mindfulness-based cognitive behavioural therapy (CBT) principles to treat depression in people with epilepsy. The EpUp study aimed to examine outcomes of UPLIFT versus EpINFO, an epilepsy information and self-management program. The effects of these distance-delivery, group intervention programs were studied in adults with epilepsy and self-reported depressive symptoms. ",
+  "dates": [
+    {
+      "date": "2014-10-21 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2017-07-18 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI"
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Epilepsy"
+      }
+    },
+    {
+      "information": {
+        "value": "Depression"
+      }
+    },
+    {
+      "information": {
+        "value": "Clinical Studies"
+      }
+    },
+    {
+      "information": {
+        "value": "Distance-delivery"
+      }
+    },
+    {
+      "information": {
+        "value": "Mindfulness cognitive behavior therapy"
+      }
+    },
+    {
+      "information": {
+        "value": "Self-Management"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV"
+      ],
+      "size": 10.13,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Do distance-delivery group interventions improve depression in people with epilepsy?",
+      "publicationVenue": "Epilepsy & behavior",
+      "authors": [
+        {
+          "fullName": "",
+          "firstName": "Kathryn",
+          "middleInitial": "M",
+          "lastName": "Hum",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Cindy",
+          "middleInitial": "J",
+          "lastName": "Chan",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Jonathan",
+          "middleInitial": "",
+          "lastName": "Gane",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Lauryn",
+          "middleInitial": "",
+          "lastName": "Conway",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Mary Pat",
+          "middleInitial": "",
+          "lastName": "McAndrews",
+          "affiliations": []
+        },
+        {
+          "fullName": "",
+          "firstName": "Mary Lou",
+          "middleInitial": "",
+          "lastName": "Smith",
+          "affiliations": []
+        }
+      ],
+      "dates": [
+        {
+          "date": "2019-07-30 00:00:00",
+          "type": {
+            "value": "date of publication"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "https://doi.org/10.1016/j.yebeh.2019.06.037",
+        "identifierSource": "https://www.epilepsybehavior.com/article/S1525-5050(19)30407-X/fulltext"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Canada",
+      "description": ""
+    }
+  ],
+  "dimensions": [
+    {
+      "name": {
+        "value": ""
+      },
+      "description": ""
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI"
+        },
+        {
+          "name": "Epilepsy Research Program of the Ontario Brain Institute",
+          "abbreviation": "EpLink"
+        },
+        {
+          "name": "Government of Ontario",
+          "abbreviation": ""
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "epilepsy"
+    },
+    {
+      "value": "depression"
+    },
+    {
+      "value": "EpINFO"
+    },
+    {
+      "value": "UPLIFT"
+    },
+    {
+      "value": "clinical"
+    },
+    {
+      "value": "cognitive behavior therapy"
+    },
+    {
+      "value": "mindfulness"
+    },
+    {
+      "value": "self-management"
+    },
+    {
+      "value": "group intervention"
+    },
+    {
+      "value": "distance-delivery"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "66"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "270"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.braincode.ca/sites/default/files/EPL03%20Image.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
