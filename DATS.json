@@ -24,17 +24,20 @@
   "types": [
     {
       "information": {
-        "value": "Epilepsy"
+        "value": "Epilepsy",
+		"valueIRI": "http://uri.interlex.org/ilx_0103888"
       }
     },
     {
       "information": {
-        "value": "Depression"
+        "value": "Depression",
+		"valueIRI": "http://uri.interlex.org/ilx_0103094"
       }
     },
     {
       "information": {
-        "value": "Clinical Studies"
+        "value": "Clinical Studies",
+		"valueIRI": "http://uri.interlex.org/ilx_01012254"
       }
     },
     {
@@ -44,7 +47,8 @@
     },
     {
       "information": {
-        "value": "Mindfulness cognitive behavior therapy"
+        "value": "Mindfulness cognitive behavior therapy",
+		"valueIRI": "http://uri.interlex.org/ilx_0491120"
       }
     },
     {
